@@ -1,1 +1,1 @@
-This repository contains a real example of implementation of ecommerce data with SQL Database on Azure Cloud. It uses Python and Streamlit as the front-end, and Azure SQL and Azure Storage to persist products relational data and images.
+This repository contains a real example of implementation of ecommerce data with SQL Database on Azure Cloud. The project leverages Python and Streamlit for the front-end interface, while Azure SQL and Azure Storage are used to persist relational product data and associated images.
